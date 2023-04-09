@@ -1,0 +1,21 @@
+{
+  "name": "travelmatch",
+  "version": "1.0.0",
+  "description": "Discover your next adventure with our personalized travel platform. Connect with other travelers and find inspiration for your next vacation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel",
+    "match",
+    "ai"
+  ],
+  "author": "@byjuliogomes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
